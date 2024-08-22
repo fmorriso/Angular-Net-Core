@@ -1,0 +1,12 @@
+C:\projects\csharp\AngularNetCore\AngularNetCore\AngularNetCore.Core\bin\Debug\net8.0\AngularNetCore.Core.deps.json
+C:\projects\csharp\AngularNetCore\AngularNetCore\AngularNetCore.Core\bin\Debug\net8.0\AngularNetCore.Core.dll
+C:\projects\csharp\AngularNetCore\AngularNetCore\AngularNetCore.Core\bin\Debug\net8.0\AngularNetCore.Core.pdb
+C:\projects\csharp\AngularNetCore\AngularNetCore\AngularNetCore.Core\obj\Debug\net8.0\AngularNetCore.Core.csproj.AssemblyReference.cache
+C:\projects\csharp\AngularNetCore\AngularNetCore\AngularNetCore.Core\obj\Debug\net8.0\AngularNetCore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\csharp\AngularNetCore\AngularNetCore\AngularNetCore.Core\obj\Debug\net8.0\AngularNetCore.Core.AssemblyInfoInputs.cache
+C:\projects\csharp\AngularNetCore\AngularNetCore\AngularNetCore.Core\obj\Debug\net8.0\AngularNetCore.Core.AssemblyInfo.cs
+C:\projects\csharp\AngularNetCore\AngularNetCore\AngularNetCore.Core\obj\Debug\net8.0\AngularNetCore.Core.csproj.CoreCompileInputs.cache
+C:\projects\csharp\AngularNetCore\AngularNetCore\AngularNetCore.Core\obj\Debug\net8.0\AngularNetCore.Core.dll
+C:\projects\csharp\AngularNetCore\AngularNetCore\AngularNetCore.Core\obj\Debug\net8.0\refint\AngularNetCore.Core.dll
+C:\projects\csharp\AngularNetCore\AngularNetCore\AngularNetCore.Core\obj\Debug\net8.0\AngularNetCore.Core.pdb
+C:\projects\csharp\AngularNetCore\AngularNetCore\AngularNetCore.Core\obj\Debug\net8.0\ref\AngularNetCore.Core.dll
